@@ -18,6 +18,7 @@ package exercicios.exerc01;
  * AREA = 12.00
  * PERIMETER = 14.00
  * DIAGONAL = 5.00
+ * 
  * **/
 public class Rectangle {
 }
